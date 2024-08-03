@@ -1,0 +1,10 @@
+a = int(input("Enter the first integer: "))
+b = int(input("Enter the second integer: "))
+
+sum_ab = a + b
+sub_ab = a - b
+pro_ab = a * b
+
+print(f"The sum of the integer are {sum_ab}")
+print(f"The difference of the integer are {sub_ab}")
+print(f"The product of the integer are {pro_ab}")
